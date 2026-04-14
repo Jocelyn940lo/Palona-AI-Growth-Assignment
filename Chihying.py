@@ -77,5 +77,3 @@ def run_palona_growth_pipeline():
 
 if __name__ == "__main__":
     run_palona_growth_pipeline()
-
-sqlite3 palona_assignment.db "SELECT * FROM campaign_logs;"

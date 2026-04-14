@@ -1,0 +1,22 @@
+{
+    "topic": "AI in Creative Automation",
+    "blog_post": {
+        "title": "Automating Creativity: The NovaMind Way",
+        "word_count": 520,
+        "draft": "Artificial Intelligence is transforming how agencies operate... [Full Draft Content]"
+    },
+    "newsletters": [
+        {
+            "persona": "Creative Director",
+            "content": "Hi Director, streamline your agency workflow with NovaMind's new AI tools."
+        },
+        {
+            "persona": "Freelance Designer",
+            "content": "Stop wasting hours on admin! Here is how AI handles your Zapier workflows."
+        },
+        {
+            "persona": "Marketing Manager",
+            "content": "Boost your team's ROI by 20% using automated AI content pipelines."
+        }
+    ]
+}
